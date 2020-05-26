@@ -1,3 +1,4 @@
+#!/bin/sh -ex
 sudo apt-get install libpcre3-dev tk-dev libglib2.0-dev libxt-dev 
 
 V=3.15.1
